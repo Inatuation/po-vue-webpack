@@ -1,0 +1,23 @@
+{
+  "name": "po-webpack-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "po-webpack-cli": "bin/po-vue-webpack.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "const": "^1.0.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.2.0",
+    "handlebars": "^4.7.8",
+    "inquirer": "^9.2.16"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "description": ""
+}
